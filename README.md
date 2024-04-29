@@ -1,4 +1,4 @@
-### I am developer, no sleep, no humour, just stress and code 👋
+### If you think about it carefully, you're playing games through a very clever pile of sand, doused in chemicals, and brought to life by lightning.  👋
 
 
 <!--START_SECTION:waka-->
