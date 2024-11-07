@@ -4,19 +4,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2018 - To: 04 November 2024
+From: 31 December 2018 - To: 05 November 2024
 
-Total Time: 4,276 hrs 18 mins
+Total Time: 4,281 hrs 50 mins
 
-Python                     2,246 hrs       >>>>>>>>>>>>>------------   52.53 %
-XML                        563 hrs 27 mins >>>----------------------   13.18 %
-JavaScript                 519 hrs 45 mins >>>----------------------   12.16 %
-Other                      217 hrs 4 mins  >------------------------   05.08 %
-Bash                       157 hrs 19 mins >------------------------   03.68 %
+Python                     2,250 hrs 16 mins>>>>>>>>>>>>>------------   52.56 %
+XML                        563 hrs 41 mins >>>----------------------   13.17 %
+JavaScript                 520 hrs 4 mins  >>>----------------------   12.15 %
+Other                      217 hrs 9 mins  >------------------------   05.07 %
+Bash                       157 hrs 55 mins >------------------------   03.69 %
 JSON                       131 hrs 22 mins >------------------------   03.07 %
 SCSS                       72 hrs 25 mins  -------------------------   01.69 %
 Markdown                   54 hrs 46 mins  -------------------------   01.28 %
-Rust                       49 hrs 49 mins  -------------------------   01.17 %
+Rust                       49 hrs 49 mins  -------------------------   01.16 %
 CSV                        35 hrs 31 mins  -------------------------   00.83 %
 ```
 
