@@ -22,4 +22,4 @@ Lua                        42 hrs 40 mins  -------------------------   00.96 %
 
 <!--END_SECTION:waka-->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XenophonLXH)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XenophonLXH&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
