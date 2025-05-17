@@ -1,6 +1,10 @@
 ### If you think about it carefully, you're playing games through a very clever pile of sand, doused in chemicals, and brought to life by lightning.  👋
 
 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XenophonLXH&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -21,5 +25,3 @@ Rust                       49 hrs 52 mins  -------------------------   01.02 %
 ```
 
 <!--END_SECTION:waka-->
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XenophonLXH&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
