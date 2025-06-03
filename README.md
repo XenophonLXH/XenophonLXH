@@ -2,6 +2,7 @@
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=XenophonLXH&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=XenophonLXH&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
