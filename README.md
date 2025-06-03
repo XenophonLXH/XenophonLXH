@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------------------------
 
-- 🎓: Bachelors in Science of Computing, University of South Africa
+- 🎓: Bachelor of Science in Computing, University of South Africa
 - 💻: Ubuntu
 - 💿: [Neovim](https://github.com/neovim/neovim) user. See [My Configuration](https://github.com/XenophonLXH/xenovim)
 
