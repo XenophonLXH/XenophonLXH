@@ -1,14 +1,12 @@
 ### If you think about it carefully, you're playing games through a very clever pile of sand, doused in chemicals, and brought to life by lightning.  👋
 
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=XenophonLXH&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ### 📊 &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XenophonLXH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XenophonLXH&layout=compact&langs_count=8&theme=algolia"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XenophonLXH&theme=algolia" alt="xenophonLXH" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=XenophonLXH&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=XenophonLXH&layout=compact&langs_count=8&theme=codeSTACKr"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XenophonLXH&theme=codeSTACKr" alt="xenophonLXH" />
 </a>
 </p>
 
