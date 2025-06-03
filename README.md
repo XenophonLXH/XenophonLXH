@@ -2,6 +2,11 @@
 
 -------------------------------------------------------------------------------------------------------
 
+🎓: Bachelors in Science of Computing, University of South Africa
+💻: Ubuntu
+💿: [Neovim](https://github.com/neovim/neovim) user. See [My Configuration](https://github.com/XenophonLXH/xenovim)
+
+-------------------------------------------------------------------------------------------------------
 
 <!--START_SECTION:waka-->
 
@@ -32,5 +37,3 @@ Rust                       49 hrs 52 mins  -------------------------   01.01 %
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XenophonLXH&theme=algolia" alt="XenophonLXH" />
     </a>
 </p>
-
-
