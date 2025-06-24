@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2018 - To: 21 June 2025
+From: 31 December 2018 - To: 22 June 2025
 
-Total Time: 5,019 hrs 46 mins
+Total Time: 5,021 hrs 8 mins
 
-Python                     2,611 hrs 44 mins>>>>>>>>>>>>>------------   52.03 %
-XML                        638 hrs 2 mins  >>>----------------------   12.71 %
-JavaScript                 588 hrs 24 mins >>>----------------------   11.72 %
-Other                      253 hrs 28 mins >------------------------   05.05 %
+Python                     2,612 hrs 14 mins>>>>>>>>>>>>>------------   52.03 %
+XML                        638 hrs 15 mins >>>----------------------   12.71 %
+JavaScript                 588 hrs 54 mins >>>----------------------   11.73 %
+Other                      253 hrs 36 mins >------------------------   05.05 %
 Bash                       212 hrs 3 mins  >------------------------   04.22 %
 JSON                       132 hrs 4 mins  >------------------------   02.63 %
 SCSS                       95 hrs 59 mins  -------------------------   01.91 %
